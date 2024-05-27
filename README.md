@@ -1,14 +1,14 @@
- Task 03 Email Template
+ Task 03 Restaurant Menu
 
- An email template is a pre-designed email that can be used to send out marketing or promotional emails. The goal of a good email template is to make it easy and quick for 
- businesses to send out emails that look professional and engaging.
+ A restaurant menu UI/UX project is the process of designing a menu that is both visually appealing and easy to use. The goal of a good restaurant menu is to make it easy for 
+ customers to find the dishes they want, and to encourage them to order more.
  
- A good email template should be:
+ A good restaurant menu should be:
  
- Visually appealing: The email template should be visually appealing and easy to read. The use of colors, fonts, and images should be carefully considered to create a visually
- appealing email.
+ Visually appealing: The menu should be visually appealing and easy to read. The use of colors, fonts, and images should be carefully considered to create a visually appealing 
+ menu.
  
- Easy to use: The email template should be easy to use and navigate. The user should be able to easily find the necessary information and make changes to the template.
+ Easy to use: The menu should be easy to use and navigate. The customer should be able to easily find the necessary information and make their selections.
  
- Responsive: The email template should be responsive, so that it looks good on all devices,
- including desktop computers, laptops, tablets, and smartphones.
+ Categorized: The menu should be categorized, so that customers can easily find the dishes they are looking for. The categories should be clear and concise, and they should be 
+ consistent throughout the menu.
